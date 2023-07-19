@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function () {
         <td class="editable" >Enter Name</td>
         <td class="editable" >Enter Age</td>
         <td class="editable" >Enter Mobile</td>
-        <td class="editable" >Enter Age</td>
+        <td class="editable" >Enter Email</td>
         <td class="editable" >Enter Address</td>
       `;
     
