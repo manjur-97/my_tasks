@@ -1,0 +1,44 @@
+#container {
+  padding: 20px;
+}
+thead tr {
+  background-color: rgb(184, 226, 239);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #dbd9d9;
+  padding: 8px;
+  text-align: center;
+}
+td:hover{
+  background-color: #e8e8e8;
+}
+
+.editable input {
+  width: 100px;
+  padding: 5px;
+  box-sizing: border-box;
+  border: none;
+  text-align: center;
+}
+
+button {
+  float: right;
+  margin: 10px 5px;
+  padding: 10px;
+  background-color: rgb(58, 144, 172);
+  border: none;
+  color: white;
+  border-radius: 4px;
+
+}
+
+button:hover {
+  background-color: rgb(50, 124, 148);
+}
